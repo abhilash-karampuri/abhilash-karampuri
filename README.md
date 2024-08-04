@@ -36,15 +36,15 @@
 <br><br> 
 </p>
 <br>
-<h4>Hobbies</h4>
-
+<h3>Favourites</h3>
+<div>
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />
 <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="120" />
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="120" />
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" />
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="120" />
-
+</div>
 <br><br>     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash-karampuri&show_icons=true&locale=en&layout=compact" alt="abhilash-karampuri" /></p>
 
